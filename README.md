@@ -1,4 +1,4 @@
-# bibliotecavue
+# CRUDVue
 
 ## Project setup
 ```
