@@ -5,12 +5,12 @@
 </template>
 
 <script>
-import Cabecalho from './components/Cabecalho.vue'
+import Cabecalho from './components/Cabecalho'
 
 export default {
   name: 'App',
   components: {
-    Cabecalho,
+    Cabecalho
   }
 }
 </script>

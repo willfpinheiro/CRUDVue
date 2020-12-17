@@ -38,7 +38,7 @@
 								<a href="#" class="nav-link">Contato</a>
 							</li>
 							<li class="nav-item">
-								<a href="#" class="nav-link">Cidade</a>
+								<a href="./Cidade.vue" class="nav-link">Cidade</a>
 							</li>
 						</ul>
 					</div>
@@ -52,13 +52,6 @@
 export default {
   name: 'Cabecalho',
   props: {
-    
   }
 }
 </script>
-
-<!-- Add "scoped" attribute to limit CSS to this component only -->
-<style >
-
-
-</style>
